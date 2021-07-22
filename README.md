@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hesam
-- Learning C# and JavaScript
-- I Want to be a FullStack Developer
+- 📚 Learning C# and JavaScript
+- 👨‍🎓 I Want to be a FullStack Developer
