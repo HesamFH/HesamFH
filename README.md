@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hesam
 - 👨🏻‍💻 C# and JavaScript Programmer
-- 📚 Currently Learning More JavaScript
+- 📚 Currently Learning More About JavaScript
